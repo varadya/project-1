@@ -1,4 +1,11 @@
 p{ font-family: 'PT Sans Narrow', sans-serif;}
 h1,h2{font-family: 'Slabo 13px', serif;}
 
- body  {background-color: #105410; }
+ body  {background-color: white; }
+
+ .stats{
+        width: 400px;
+        margin: 25px auto;
+        border: solid green 5px;
+        -webkit-box-sizing: border box;
+        }

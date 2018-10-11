@@ -9,3 +9,6 @@ h1,h2{font-family: 'Slabo 13px', serif;}
         border: solid green 5px;
         -webkit-box-sizing: border box;
         }
+.picture{
+    justify-content: center;
+}

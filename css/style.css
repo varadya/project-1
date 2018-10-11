@@ -1,7 +1,7 @@
 p{ font-family: 'PT Sans Narrow', sans-serif;}
 h1,h2{font-family: 'Slabo 13px', serif;}
 
- body  {background-color: white; }
+ body  {background-color: cream; }
 
  .stats{
         width: 400px;
@@ -9,6 +9,3 @@ h1,h2{font-family: 'Slabo 13px', serif;}
         border: solid green 5px;
         -webkit-box-sizing: border box;
         }
-.picture{
-    justify-content: center;
-}

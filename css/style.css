@@ -4,10 +4,10 @@ h1,h2{font-family: 'Slabo 13px', serif;}
  body  {background-color: cream; }
 
  .stats{
-        align-content: left;
+        align-content: center;
         width: 400px;
         margin: 25px auto;
         border: solid green 5px;
         -webkit-box-sizing: border box;
-        padding: 200px;
+        padding: 50px;
         }
